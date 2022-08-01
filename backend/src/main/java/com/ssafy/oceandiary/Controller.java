@@ -8,6 +8,6 @@ public class Controller {
 
     @GetMapping("/api/test")
     public String getTest() {
-        return "정상적으로 수행되었습니다. 2";
+        return "정상적으로 수행되었습니다. 3";
     }
 }
